@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
-
+//hello git
 
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
